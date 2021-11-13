@@ -1,6 +1,6 @@
 
 # Coursera_Capstone_Project
-## The Battle of Neighborhoods (Week 1)
+## The Battle of Neighborhoods
 ~KASHIFA NASEEM: Introduction and Data Sections
 
 ## 1. Introduction Section :
